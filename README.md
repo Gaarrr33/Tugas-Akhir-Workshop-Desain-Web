@@ -1,10 +1,10 @@
-# 🏠 ApartEase: Marketplace Properti Apartemen Indonesia
+# ApartEase: Marketplace Properti Apartemen Indonesia
 
 ApartEase adalah platform *web* modern yang dirancang untuk mempermudah proses jual beli dan sewa unit apartemen di seluruh Indonesia. Dibangun menggunakan **React** untuk pengalaman pengguna yang dinamis dan **Bootstrap** untuk desain yang *responsive* dan terstruktur.
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 * **Daftar Properti Komprehensif:** Menampilkan unit apartemen dengan detail lengkap, termasuk foto, spesifikasi, dan informasi kontak.
 * **Pencarian & Filter Canggih:** Memungkinkan pengguna menyaring properti berdasarkan lokasi, harga, jumlah kamar tidur, dan jenis transaksi (Jual atau Sewa).
@@ -12,7 +12,7 @@ ApartEase adalah platform *web* modern yang dirancang untuk mempermudah proses j
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **Frontend Framework:** React.js
 * **Styling & UI Library:** Bootstrap 5
@@ -22,7 +22,7 @@ ApartEase adalah platform *web* modern yang dirancang untuk mempermudah proses j
 
 ---
 
-## 🗺️ Struktur Halaman
+## Struktur Halaman
 
 Website ini terdiri dari empat halaman utama yang diakses melalui navigasi:
 
@@ -41,45 +41,4 @@ Website ini terdiri dari empat halaman utama yang diakses melalui navigasi:
 4.  ### **Detail Properti**
     * **Fungsi:** Halaman terpisah (menggunakan *dynamic routing* seperti `/properti/:id`) yang menampilkan spesifikasi lengkap dari satu unit properti.
     * **Komponen Kunci:** **Image Gallery/Carousel**, **List Group** (spesifikasi), **Contact Form** (untuk penjadwalan kunjungan).
-
----
-
-## 🛠️ Cara Menjalankan Proyek
-
-Ikuti langkah-langkah berikut untuk menjalankan proyek ApartEase di lingkungan lokal Anda:
-
-### Prasyarat
-
-Pastikan Anda telah menginstal **Node.js** dan **npm** (atau **Yarn**).
-
-### Instalasi
-
-1.  **Kloning Repositori:**
-    ```bash
-    git clone [LINK_REPOSITORY_ANDA]
-    cd ApartEase
-    ```
-
-2.  **Instal Dependensi:**
-    ```bash
-    npm install
-    # atau
-    yarn install
-    ```
-
-3.  **Jalankan Aplikasi:**
-    ```bash
-    npm start
-    # atau
-    yarn start
-    ```
-
-Aplikasi akan berjalan di mode pengembangan. Buka `http://localhost:3000` di *browser* Anda.
-
----
-
-## ✍️ Kontributor
-
-* **[Nama Anda]** - *[Peran Anda di Proyek/Inisiator]*
-* *(Tambahkan nama kontributor lain jika ada)*
 
